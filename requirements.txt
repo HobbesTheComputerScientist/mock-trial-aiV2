@@ -1,0 +1,10 @@
+transformers
+trl
+peft
+datasets
+gradio
+huggingface_hub
+torch
+PyMuPDF
+accelerate
+bitsandbytes
