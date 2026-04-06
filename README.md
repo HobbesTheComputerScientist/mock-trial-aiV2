@@ -1,4 +1,4 @@
-# Mock Trial AI V2: The Research & Fine-Tuning Phase
+# Mock Trial AI V2
 
 ## Table of Contents
 * [Project Overview](#project-overview)
